@@ -1,5 +1,5 @@
-=== NE:s faktabubbla ===
-Tags: fakta, källa
+ï»¿=== NE:s faktabubbla ===
+Tags: fakta, kÃ¤lla
 Tested up to: 2.8.6
 Requires at least: 1.0.0
 Stable tag: trunk
@@ -8,19 +8,19 @@ Contributors: Nationalencyklopedin
 English:
 Activates a Swedish National Encyclopedia (NE) fact bubble on your website.
 Swedish:
-Aktiverar NE:s faktabubbla på din sida. 
+Aktiverar NE:s faktabubbla pÃ¥ din sida. 
 
 == Description ==
 
-Detta insticksprogram aktiverar NE:s faktabubbla på din sida. NE:s faktabubblor 
-lyfter din hemsida! Med NE:s faktabubblor ger du din hemsidas besökare service 
-och mervärde genom att erbjuda källkritiskt granskad information kring 
-facktermer, begrepp, personer, organisationer och annat som du nämner på din 
-sida. Faktabubblan dyker upp med ordförklaringar när muspekaren förs över ett 
-ord som du länkat till i den fria delen av NE.se. Du hjälper dina besökare och 
-de behöver inte lämna din sida för utförligare information.
+Detta insticksprogram aktiverar NE:s faktabubbla pÃ¥ din sida. NE:s faktabubblor 
+lyfter din hemsida! Med NE:s faktabubblor ger du din hemsidas besÃ¶kare service 
+och mervÃ¤rde genom att erbjuda kÃ¤llkritiskt granskad information kring 
+facktermer, begrepp, personer, organisationer och annat som du nÃ¤mner pÃ¥ din 
+sida. Faktabubblan dyker upp med ordfÃ¶rklaringar nÃ¤r muspekaren fÃ¶rs Ã¶ver ett 
+ord som du lÃ¤nkat till i den fria delen av NE.se. Du hjÃ¤lper dina besÃ¶kare och 
+de behÃ¶ver inte lÃ¤mna din sida fÃ¶r utfÃ¶rligare information.
 
 
 == Installation ==
 
-1. Aktivera insticksprogrammet i menyn 'tillägg'.
+1. Aktivera insticksprogrammet i menyn 'tillÃ¤gg'.
