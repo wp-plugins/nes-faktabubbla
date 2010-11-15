@@ -1,5 +1,5 @@
 ﻿=== NE:s faktabubbla ===
-Tags: fakta, källa
+Tags: fakta, källa, bubbla, encyklopedi
 Tested up to: 2.8.6
 Requires at least: 1.0.0
 Stable tag: trunk
