@@ -1,11 +1,12 @@
 <?php
 /*
 Plugin Name: NE:s faktabubbla
-Plugin URI: http://www.ne.se/static/tools/index.jsp
+Plugin URI: http://www.ne.se/static/tools/
 Description: Aktiverar NE:s faktabubbla på din sida. Faktabubblan dyker upp när muspekaren förs över ett ord som du länkat till i den fria delen av NE.se.
 Version: 1.0
 Author: Nationalencyklopedin
-Author URI: http://www.ne.se
+Plugin URI:  http://wordpress.org/extend/plugins/nes-faktabubbla/
+Author URI: http://www.ne.se/
 */
 
 function nebubble_add_bubble(){
