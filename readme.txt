@@ -1,7 +1,7 @@
 ﻿=== NE:s faktabubbla ===
 Tags: fakta, källa, bubbla, encyklopedi
-Tested up to: 2.8.6
-Requires at least: 3.0.5
+Tested up to: 3.0.5
+Requires at least: 2.0.0
 Stable tag: trunk
 Contributors: Nationalencyklopedin
 
