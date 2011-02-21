@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: NE:s faktabubbla
-Plugin URI: http://www.ne.se/static/tools/
+Plugin URI: http://www.ne.se/static/tools/bubbla.jsp
 Description: Aktiverar NE:s faktabubbla på din sida. Faktabubblan dyker upp när muspekaren förs över ett ord som du länkat till i den fria delen av NE.se.
 Version: 1.0
 Author: Nationalencyklopedin
